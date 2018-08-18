@@ -1,0 +1,292 @@
+body {
+margin: 0%;
+padding: 0%;
+background-color: #0C5A77;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  padding: 0;
+  margin: 0px 0px 0 1400px;
+}
+
+.top-links li {
+  display: inline-block;
+  padding: 0;
+  margin: 0 10px;
+}
+
+.npm-logo {
+  display: inline-block;
+  margin: 15px;
+}
+
+.search {
+  position:absolute;
+  left:8%;
+  top:35px;
+  width:60%;
+ 
+}
+
+.search input {
+  height: 45px;
+  width: 1213px;
+  margin: 0%;
+  padding: 0 0 0 10px;
+  background-color: rgb(31, 82, 111);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 25px;
+  
+}
+
+.login {
+  position: absolute;
+}
+
+.log {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: darkgray;
+  font-weight: 600;
+  top: 75px;
+  left: 1591px;
+}
+
+.bear-logo {
+  width: 60px;
+  display: inline-flex;
+  position: absolute;
+  left: 96%
+}
+
+.part2 {
+  width: 1900px;
+  height: 900px;
+  background-image: url(/home/luther/Desktop/lab-html-module-exercise-master/starter-code/images/city-scape.svg);
+}
+
+.p2text {
+  position: absolute;
+  top: 250px;
+  left: 130px;
+  font-size: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.p2text2 {
+  width: 950px;
+  position: absolute;
+  top: 440px;
+  left: 130px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.p2text3 {
+  width: 300px;
+  height: 40px;
+  padding: 20px 0px;
+  margin-left: 10px;
+  text-align: center;
+  position: absolute;
+  top: 720px;
+  left: 130px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-decoration: none;
+  background-color: rgb(240, 146, 51);
+  border-radius: 40px;
+}
+
+.div-section1 {
+  position: relative;
+  width: 1555px;
+  margin: 0 auto;
+  height: 400px;
+  padding-left: 350px;
+  background: rgb(39, 53, 71);
+}
+
+.team-image {
+  position: relative;
+  top: 50px;
+}
+
+.div-section1-1 {
+  position: relative;
+  float: right;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.section1-header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: white;
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+.section1-button1 {
+  position: absolute;
+  height: 20px;
+  width: 185px;
+  padding: 15px 30px;
+  margin-left: 10px;
+  left: 30px;
+  color: white;
+  text-decoration: none;
+  background-color: rgb(203, 56, 55);
+  border-radius: 40px;
+}
+
+.section1-button2 {
+  position: absolute;
+  top: 320px;
+  left: 30px;
+  color: white;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.section2 {
+  background-image: url(/home/luther/Desktop/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+  background-size: cover;
+  height: 700px;
+  position: relative;
+}
+
+.npm {
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.npm h3 {
+  font-size: 70px;
+  margin-left: 250px;
+  margin-top: 150px;
+  font-weight: 100;
+  color: white;
+}
+
+.npm p {
+  font-size: 30px;
+  margin-left: 250px;
+  color: white;
+}
+
+.npm a {
+  height: 30px;
+  width: 80px;
+  padding: 20px 30px;
+  margin-left: 250px;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  background-color: rgb(49, 68, 88);
+  border-radius: 50px;
+}
+
+.section3 {
+position: relative;
+height: 500px;
+background: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.section3-header h2 {
+padding-left: 34%;
+padding-bottom: 10px;
+padding-top: 25px;
+color: rgb(83, 88, 98); 
+}
+
+.section3-header p {
+  padding-left: 27.5%;
+  padding-bottom: 40px;
+  color: rgb(135, 145, 156);
+}
+
+.section3-1 {
+  position: absolute;
+  padding-left: 20%;
+}
+
+.section3-2 {
+  position: absolute;
+  padding-left: 45%;
+}
+
+.section3-3 {
+  position: absolute;
+  padding-left: 70%;
+}
+
+.section3-1 img {
+  position: relative;
+  padding-left: 20%;
+}
+.section3-1 h3 {
+  position: relative;
+  padding-left: 37%;
+  color: rgb(75, 76, 78);
+}
+
+.section3-1 p {
+  position: relative;
+  margin-right: 0%;
+  color: rgb(135, 145, 156);
+}
+
+.section3-2 img {
+
+}
+
+.section3-2 h3 {
+position: relative;
+margin-left: 12%;
+color: rgb(75, 76, 78);
+}
+.section3-2 p {
+position: relative;
+color: rgb(135, 145, 156);
+}
+
+.section3-3 img {
+  position: relative;
+}
+
+.section3-3 h3 {
+  position: relative;
+  margin-left: 20%;
+  color: rgb(75, 76, 78);
+}
+
+.section3-3 p {
+  position: relative;
+  color: rgb(135, 145, 156);
+}
+
+.section3-1 a {
+  text-decoration: none;
+  color: rgb(208, 74, 73);
+}
